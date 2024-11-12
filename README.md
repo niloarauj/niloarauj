@@ -1,6 +1,6 @@
 # Olá pessoal 👍
 
-Meu nome é Nilo, desenvolvedor fullstack Junior e técnico em Desenvolvimento de Sistemas
+Meu nome é Nilo, desenvolvedor Junior FullStack e Técnico em Desenvolvimento de Sistemas
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloaraujodacosta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niloaraujodacosta)
