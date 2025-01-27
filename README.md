@@ -1,4 +1,4 @@
-# Olá pessoal 👍
+# Olá, pessoal!
 
 Meu nome é Nilo, desenvolvedor Junior FullStack e Técnico em Desenvolvimento de Sistemas
 
