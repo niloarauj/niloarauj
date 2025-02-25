@@ -9,4 +9,4 @@ Meu nome é Nilo, desenvolvedor Junior FullStack e Técnico em Desenvolvimento d
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
